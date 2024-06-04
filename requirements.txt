@@ -1,0 +1,2 @@
+Pillow
+pix2tex[api]

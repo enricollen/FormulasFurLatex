@@ -1,10 +1,10 @@
 {
-    "name": "My plugin",
-    "version": "0.0.1",
-    "description": "Description of my_plugin.",
-    "author_name": "Me",
-    "author_url": "https://mywebsite.me",
-    "plugin_url": "https://github.com/my_name/my_plugin",
-    "tags": "cat, template, example",
-    "thumb": "https://raw.githubusercontent.com/my_repo_path/my_plugin.png"
+    "name": "FormulasFurLatex",
+    "version": "1.0.0",
+    "description": "Let the cat detect math formulas from images for you and reproduce them in Latex syntax",
+    "author_name": "enricollen",
+    "author_url": "https://github.com/enricollen",
+    "plugin_url": "https://github.com/enricollen/FormulasFurLatex",
+    "tags": "multimedia, image, math, formula, latex",
+    "thumb": "https://raw.githubusercontent.com/enricollen/FormulasFurLatex/main/logo.png"
 }
