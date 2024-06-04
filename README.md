@@ -10,3 +10,6 @@ To start using the Latex-from-image plugin, follow these steps:
 
 ### Example:
 <img src="https://github.com/enricollen/FormulasFurLatex/blob/main/example.png">
+
+Check correctness:
+<img src="https://github.com/enricollen/FormulasFurLatex/blob/main/validate_result_example.png">
